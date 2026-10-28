@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "hf-discover",
+  "versions": [
+    {
+      "commit": "7f17fe86620729dfb2d1430dc04fa59c07c4f696",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:23:24.969904+00:00"
+    }
+  ]
+}
