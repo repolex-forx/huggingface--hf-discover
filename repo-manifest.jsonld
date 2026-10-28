@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/hf-discover/commit/7f17fe86620729dfb2d1430dc04fa59c07c4f696",
       "git:hexsha": "7f17fe86620729dfb2d1430dc04fa59c07c4f696",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/hf-discover/commit/8fed1f19320e4c77508f6a16dc75b170e3b1e07b",
